@@ -10,7 +10,7 @@
 
 # Project UAS
 
-<P>Buatlah program kasir di sebuah , dengan kondisi berikut:</P>
+<P>Buatlah program kasir di sebuah kantin , dengan kondisi berikut:</P>
 <P>• List opsi pilihan makanan/minuman dan aksi, bisa menggunakan
 format dictionary</P>
 <P>• Program harus meminta input pilihan makanan dari pengguna.</P>
