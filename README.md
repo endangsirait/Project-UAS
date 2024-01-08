@@ -17,5 +17,12 @@ format dictionary</P>
 <P>• Program harus menghitung total harga makanan yang dipesan.</P>
 <P>• Program harus menampilkan struk pembelian.</P>
 
-1. Ini adalah dictionary yang menyimpan daftar menu beserta harga masing-masing.
+
+### 1. Daftar Menu: Ini adalah dictionary yang menyimpan daftar menu beserta harga masing-masing.
    ![Screenshot 2024-01-08 142114](https://github.com/endangsirait/Project-UAS/assets/148036197/0f9b4b2d-b9d7-45e9-806d-8b063336636e)
+ Ini adalah dictionary yang menyimpan daftar menu beserta harga masing-masing.
+ 
+### 2. 
+
+
+
