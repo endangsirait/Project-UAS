@@ -6,7 +6,7 @@
 | **NIM** | 312310588 |
 | **Kelas** | TI.23.A6 |
 | **Matakuliah** | Bahasa Pemograman |
-| **Link Penjelasan** |
+| **Link Penjelasan** | https://youtu.be/RZ4oDckZIZE?si=CX0Ns3MO5FEZD5Nk |
 
 # Project UAS
 
